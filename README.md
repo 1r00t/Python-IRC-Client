@@ -9,6 +9,7 @@ A very basic IRC-Client in Python using PyQT4 and sockets
 
 # TODO:
 - make channel tabs dynamic
+- add user list and implement context menu for whois/whisper
 - deal with whispers
 - maybe add multiple server connection support
 - much more
